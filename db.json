@@ -107,6 +107,16 @@
       "salary": 25,
       "profile": "Profile-03.jpg",
       "id": 11
+    },
+    {
+      "firstname": "ngawang",
+      "lastname": "palden",
+      "birthdate": "2022-11-08",
+      "gender": "m",
+      "company": "",
+      "jobExperience": "",
+      "salary": "",
+      "id": 13
     }
   ],
   "comments": [],
