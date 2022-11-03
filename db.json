@@ -109,14 +109,16 @@
       "id": 11
     },
     {
-      "firstname": "ngawang",
-      "lastname": "palden",
-      "birthdate": "2022-11-08",
+      "firstname": "Karma",
+      "lastname": "Tsering",
+      "birthdate": "1999-05-06",
       "gender": "m",
-      "company": "",
-      "jobExperience": "",
-      "salary": "",
-      "id": 13
+      "education": "post graduate",
+      "company": "Google",
+      "jobExperience": "1",
+      "salary": "13",
+      "profile": "Profile-07.jpg",
+      "id": 12
     }
   ],
   "comments": [],
